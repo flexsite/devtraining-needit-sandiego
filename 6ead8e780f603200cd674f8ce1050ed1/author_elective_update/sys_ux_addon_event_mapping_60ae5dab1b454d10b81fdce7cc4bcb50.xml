@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="DELETE">
+        <active>true</active>
+        <description/>
+        <name>Simple List with Chris default New Asset Modal</name>
+        <parent_macroponent display_value="Simple List">bf9e5dab1b454d10b81fdce7cc4bcb0e</parent_macroponent>
+        <source_da display_value="new_asset">2a6c76850b21301021fd092db4673a16</source_da>
+        <source_element_id>list_1</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 16:38:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>60ae5dab1b454d10b81fdce7cc4bcb50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Simple List with Chris default New Asset Modal</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Asset Management Workspace" source="sn_itam_workspace">54b90b435d70f410f87728dca52fcfea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_60ae5dab1b454d10b81fdce7cc4bcb50</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 16:38:03</sys_updated_on>
+        <target_event display_value="SIMPLE_LIST#OPEN_MODAL">31a6f26db3163010bf6680bd26a8dcf1</target_event>
+        <target_payload_mapping>{&#13;
+    "type": "MAP_CONTAINER",&#13;
+    "container": {&#13;
+      "route": {&#13;
+        "type": "EVENT_PAYLOAD_BINDING",&#13;
+        "binding": {&#13;
+          "address": [&#13;
+            "route"&#13;
+          ]&#13;
+        }&#13;
+      },&#13;
+      "fields": {&#13;
+        "type": "EVENT_PAYLOAD_BINDING",&#13;
+        "binding": {&#13;
+          "address": [&#13;
+            "fields"&#13;
+          ]&#13;
+        }&#13;
+      },&#13;
+      "params": {&#13;
+        "type": "EVENT_PAYLOAD_BINDING",&#13;
+        "binding": {&#13;
+          "address": [&#13;
+            "params"&#13;
+          ]&#13;
+        }&#13;
+      }&#13;
+    }&#13;
+  }</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4f01f866db07770452dd2f17d4961929</instance_id>
+        <instance_name>dev90939</instance_name>
+        <name>sys_ux_addon_event_mapping_60ae5dab1b454d10b81fdce7cc4bcb50</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Simple List with Chris default New Asset Modal</name>
+        <parent_macroponent display_value="Simple List">bf9e5dab1b454d10b81fdce7cc4bcb0e</parent_macroponent>
+        <source_da display_value="new_asset">2a6c76850b21301021fd092db4673a16</source_da>
+        <source_element_id>list_1</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 16:38:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>60ae5dab1b454d10b81fdce7cc4bcb50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Simple List with Chris default New Asset Modal</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Asset Management Workspace" source="sn_itam_workspace">54b90b435d70f410f87728dca52fcfea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_60ae5dab1b454d10b81fdce7cc4bcb50</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 16:38:03</sys_updated_on>
+        <target_event display_value="SIMPLE_LIST#OPEN_MODAL">31a6f26db3163010bf6680bd26a8dcf1</target_event>
+        <target_payload_mapping>{&#13;
+    "type": "MAP_CONTAINER",&#13;
+    "container": {&#13;
+      "route": {&#13;
+        "type": "EVENT_PAYLOAD_BINDING",&#13;
+        "binding": {&#13;
+          "address": [&#13;
+            "route"&#13;
+          ]&#13;
+        }&#13;
+      },&#13;
+      "fields": {&#13;
+        "type": "EVENT_PAYLOAD_BINDING",&#13;
+        "binding": {&#13;
+          "address": [&#13;
+            "fields"&#13;
+          ]&#13;
+        }&#13;
+      },&#13;
+      "params": {&#13;
+        "type": "EVENT_PAYLOAD_BINDING",&#13;
+        "binding": {&#13;
+          "address": [&#13;
+            "params"&#13;
+          ]&#13;
+        }&#13;
+      }&#13;
+    }&#13;
+  }</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>]]></payload>
+        <payload_hash>-1012699336</payload_hash>
+        <record_name>Simple List with Chris default New Asset Modal</record_name>
+        <reverted_from/>
+        <source>d0d8c24807b7c110900bf7108c1ed038</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-26 15:38:48</sys_created_on>
+        <sys_id>11694ac807b7c110900bf7108c1ed0f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18101053abe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-26 15:38:48</sys_updated_on>
+        <type>UX Add-on Event Mapping</type>
+        <update_guid>dd694ac8f8b7c110a78c5df349b5c2f7</update_guid>
+        <update_guid_history>dd694ac8f8b7c110a78c5df349b5c2f7:-1012699336</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 08:34:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_addon_event_mapping">sys_ux_addon_event_mapping</sys_db_object>
+        <sys_id>02e55cf1e7c14ff280960ba93487b391</sys_id>
+        <sys_metadata>60ae5dab1b454d10b81fdce7cc4bcb50</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Simple List with Chris default New Asset Modal</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_ux_addon_event_mapping_60ae5dab1b454d10b81fdce7cc4bcb50</sys_update_name>
+        <sys_update_version display_value="sys_ux_addon_event_mapping_60ae5dab1b454d10b81fdce7cc4bcb50">11694ac807b7c110900bf7108c1ed0f8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 08:34:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="NeedIt Experience">f30d66941b0d0510b81fdce7cc4bcb52</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Home</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>home</route_type>
+        <screen_type/>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-10 20:06:36</sys_created_on>
+        <sys_id>5e7eee181b0d0510b81fdce7cc4bcb9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_app_route_5e7eee181b0d0510b81fdce7cc4bcb9b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-10 20:06:36</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=5e7eee181b0d0510b81fdce7cc4bcb9b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4f01f866db07770452dd2f17d4961929</instance_id>
+        <instance_name>dev90939</instance_name>
+        <name>sys_ux_app_route_5e7eee181b0d0510b81fdce7cc4bcb9b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="NeedIt Experience">f30d66941b0d0510b81fdce7cc4bcb52</app_config><description/><fields/><icon/><name>Home</name><optional_parameters/><order>0</order><parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent><parent_macroponent_composition_element_id/><route_type>home</route_type><screen_type/><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-10 20:06:36</sys_created_on><sys_id>5e7eee181b0d0510b81fdce7cc4bcb9b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Home</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_app_route_5e7eee181b0d0510b81fdce7cc4bcb9b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-10 20:06:36</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=5e7eee181b0d0510b81fdce7cc4bcb9b"/></record_update>]]></payload>
+        <payload_hash>-836862238</payload_hash>
+        <record_name>Home</record_name>
+        <reverted_from/>
+        <source>5e6addd907050110900bf7108c1ed0f2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 08:33:59</sys_created_on>
+        <sys_id>ef5e5a4e07001110900bf7108c1ed076</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18161591eb20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 08:33:59</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>2f5e5a4edb001110ea309757e146d976</update_guid>
+        <update_guid_history>2f5e5a4edb001110ea309757e146d976:0,4369cac819b7c110f3cbf66697b0cc5e:-713641281</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 08:34:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>527b92a559c64b5cb247d2f34d02b7c4</sys_id>
+        <sys_metadata>5e7eee181b0d0510b81fdce7cc4bcb9b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_ux_app_route_5e7eee181b0d0510b81fdce7cc4bcb9b</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_5e7eee181b0d0510b81fdce7cc4bcb9b">ef5e5a4e07001110900bf7108c1ed076</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 08:34:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="DELETE">
+        <active>true</active>
+        <description>Allows the splitting of pre-allocated assets in order to allow a subset of them to be transferred</description>
+        <name>Record default Split</name>
+        <parent_macroponent/>
+        <source_da display_value="">9dd8dd9104423010fa9bc7d0aeab35ff</source_da>
+        <source_element_id>ui_action_bar</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-21 21:02:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b5d4ef371b858d10b81fdce7cc4bcbd2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record default Split</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_b5d4ef371b858d10b81fdce7cc4bcbd2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-21 21:02:53</sys_updated_on>
+        <target_event display_value="RECORD#OPEN_MODAL">509663140f0310107d20409dc4767e00</target_event>
+        <target_payload_mapping>{ &#13;
+    "type": "MAP_CONTAINER", &#13;
+    "container": { &#13;
+      "route": { &#13;
+        "type": "EVENT_PAYLOAD_BINDING", &#13;
+        "binding": { &#13;
+          "address": [ &#13;
+            "route" &#13;
+          ] &#13;
+        } &#13;
+      }, &#13;
+      "size": { &#13;
+        "type": "EVENT_PAYLOAD_BINDING", &#13;
+        "binding": { &#13;
+          "address": [ &#13;
+            "size" &#13;
+          ] &#13;
+        } &#13;
+      }, &#13;
+      "fields": { &#13;
+        "type": "EVENT_PAYLOAD_BINDING", &#13;
+        "binding": { &#13;
+          "address": [ &#13;
+            "fields" &#13;
+          ] &#13;
+        } &#13;
+      }, &#13;
+      "params": { &#13;
+        "type": "EVENT_PAYLOAD_BINDING", &#13;
+        "binding": { &#13;
+          "address": [ &#13;
+            "params" &#13;
+          ] &#13;
+        } &#13;
+      } &#13;
+    } &#13;
+  } </target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4f01f866db07770452dd2f17d4961929</instance_id>
+        <instance_name>dev90939</instance_name>
+        <name>sys_ux_addon_event_mapping_b5d4ef371b858d10b81fdce7cc4bcbd2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping"><sys_ux_addon_event_mapping action="INSERT_OR_UPDATE"><active>true</active><description>Allows the splitting of pre-allocated assets in order to allow a subset of them to be transferred</description><name>Record default Split</name><parent_macroponent/><source_da display_value="">9dd8dd9104423010fa9bc7d0aeab35ff</source_da><source_element_id>ui_action_bar</source_element_id><sys_class_name>sys_ux_addon_event_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-21 21:02:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b5d4ef371b858d10b81fdce7cc4bcbd2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Record default Split</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_addon_event_mapping_b5d4ef371b858d10b81fdce7cc4bcbd2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-21 21:02:53</sys_updated_on><target_event display_value="RECORD#OPEN_MODAL">509663140f0310107d20409dc4767e00</target_event><target_payload_mapping>{ &#13;
+    "type": "MAP_CONTAINER", &#13;
+    "container": { &#13;
+      "route": { &#13;
+        "type": "EVENT_PAYLOAD_BINDING", &#13;
+        "binding": { &#13;
+          "address": [ &#13;
+            "route" &#13;
+          ] &#13;
+        } &#13;
+      }, &#13;
+      "size": { &#13;
+        "type": "EVENT_PAYLOAD_BINDING", &#13;
+        "binding": { &#13;
+          "address": [ &#13;
+            "size" &#13;
+          ] &#13;
+        } &#13;
+      }, &#13;
+      "fields": { &#13;
+        "type": "EVENT_PAYLOAD_BINDING", &#13;
+        "binding": { &#13;
+          "address": [ &#13;
+            "fields" &#13;
+          ] &#13;
+        } &#13;
+      }, &#13;
+      "params": { &#13;
+        "type": "EVENT_PAYLOAD_BINDING", &#13;
+        "binding": { &#13;
+          "address": [ &#13;
+            "params" &#13;
+          ] &#13;
+        } &#13;
+      } &#13;
+    } &#13;
+  } </target_payload_mapping></sys_ux_addon_event_mapping></record_update>]]></payload>
+        <payload_hash>678506528</payload_hash>
+        <record_name>Record default Split</record_name>
+        <reverted_from/>
+        <source>5e6addd907050110900bf7108c1ed0f2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 08:34:13</sys_created_on>
+        <sys_id>4f6e1e4e07001110900bf7108c1ed0f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181615956380000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 08:34:13</sys_updated_on>
+        <type>UX Add-on Event Mapping</type>
+        <update_guid>8b6e1e4ea000111034eb0ebb0d8a65f4</update_guid>
+        <update_guid_history>8b6e1e4ea000111034eb0ebb0d8a65f4:0,61698ac82db7c11092d52c1c0873910f:-255074559</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 08:34:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_addon_event_mapping">sys_ux_addon_event_mapping</sys_db_object>
+        <sys_id>56dddbf3f8dc4810a775382dc15e38e4</sys_id>
+        <sys_metadata>b5d4ef371b858d10b81fdce7cc4bcbd2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record default Split</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_ux_addon_event_mapping_b5d4ef371b858d10b81fdce7cc4bcbd2</sys_update_name>
+        <sys_update_version display_value="sys_ux_addon_event_mapping_b5d4ef371b858d10b81fdce7cc4bcbd2">4f6e1e4e07001110900bf7108c1ed0f4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 08:34:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
